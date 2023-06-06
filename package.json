@@ -4,6 +4,11 @@
   "license": "MIT",
   "author": "Tashrik Anam <https://github.com/anampartho>",
   "description": "A starter kit for creating and publishing rect components on NPM",
+  "homepage": "https://github.com/anampartho/npm-package-starter-kit-react",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anampartho/npm-package-starter-kit-react"
+  },
   "keywords": [
     "react",
     "npm",
